@@ -1,9 +1,7 @@
 {
   "is_allow": false,
-  "name": "Vua Nỗ Hũ",
-  "brand": "VuaNoHu",
-  "host": "https://thesixeightnine.com",
+  "name": "2048 - Classic Puzzle Game",
+  "brand": "2048 - Classic Puzzle Game",
   "version": "1.0.0",
-  "version_url": "https://release.thesixeightnine.com/version.manifest",
   "private_key": "Khska@!12",
 }
