@@ -1,1 +1,11 @@
 
+{
+  "is_allow": true,
+  "name": "Vua Nỗ Hũ",
+  "brand": "VuaNoHu",
+  "host": "https://thesixeightnine.com",
+  "bundle_game": "https://release.thesixeightnine.com",
+  "version": "1.0.0",
+  "version_url": "https://release.thesixeightnine.com/version.manifest",
+  "private_key": "Khska@!12"
+}
